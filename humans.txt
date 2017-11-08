@@ -1,0 +1,44 @@
+                  
+
+                            
+/* TEAM */
+
+                            
+Your title: Hotel HTML5 Team
+
+Creator: Ieslen Bassan
+                            
+Site: ieslenb [at] gmail.com 
+                            
+Location: Dublin/Ireland
+
+                         
+                 
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Name: Mother
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 06
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Modernizr, jQuery, etc.
+
+                            
+Software: Software used for the development

@@ -1,0 +1,86 @@
+/*universal reset*/
+*{
+	border:0;
+	margin:0;
+	padding:0;
+}
+
+/*os itens abaixo seram sempre exibidos em blocos*/
+article, figcaption, figure, footer, header, hgroup, nav, section{
+	display: block;
+}
+
+header, section#content, footer {
+	background: #FFF;
+	margin: 0 auto;
+	max-width: 90%;
+	text-align: center;
+}
+
+.body{
+	background: #6e6e6e;
+	color: #FFF;
+	font-family: Helvetica, Verdana;
+	font-size: 1em; 
+}
+
+/* Cor variam de acordo com o clique nos links*/
+/* unvisited link */
+a:link {
+    color: #FF9800;
+}
+
+/* visited link */
+a:visited {
+    color: #FF9800;
+}
+
+/* mouse over link */
+a:hover {
+    color: #F60;
+}
+
+/* selected link */
+a:active {
+    color: #FF9800;
+}
+
+/*Different List Item Markers*/
+
+ul.b {
+    list-style-type: square;
+}
+/*
+ul.a {
+    list-style-type: circle;
+}
+
+ol.c {
+    list-style-type: upper-roman;
+}
+
+ol.d {
+    list-style-type: lower-alpha;
+}
+*/
+
+/* estilo para o menu de navegacao */
+/*Variacao de cor ao passar o mouse em cima do menu*/
+.menu-nav a {
+    margin: 0;
+    padding: 4px 6px;
+    overflow: hidden;
+    background-color: white;
+    float:none;
+    text-align: left;
+    color: black;
+    position: center
+
+}
+
+.footer
+{
+	background-color: #EFC88B;
+	position : relative;
+	padding : 2px 4px;
+}

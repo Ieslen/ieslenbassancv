@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+		<loc> http://dominio.com/index.html</loc>
+		<loc> http://dominio.com/edu.html</loc>
+		<loc> http://dominio.com/workexp.html</loc>
+		<loc> http://dominio.com/skills.html</loc>
+		<loc> http://dominio.com/projects.html</loc>
+   </url>
+</urlset> 
